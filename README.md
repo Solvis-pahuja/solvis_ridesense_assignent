@@ -1,9 +1,12 @@
 <h1 align="center">Flutter Maps</h4>
 
-<h3 align="center">A Flutter app using Google Maps SDK & Directions API</h4>
+<h3 align="center">A Flutter app using Google Maps SDK </h4>
 
 <p align="center">
-  <img src="https://github.com/sbis04/flutter_maps/raw/master/screenshots/map_view.png" alt="Flutter Maps" />
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <img src="Screenshot_screen_1.jpg" alt="Flutter Maps" style="width: 45%; margin-right: 10px;">
+  <img src="Screenshot_screen_2.jpg" alt="Flutter Maps" style="width: 45%;">
+</div>
 </p>
 
 ## Plugins
@@ -31,7 +34,7 @@ Before using it, you will need to make a new project in the **Google Cloud Platf
 * Clone the repository.
   
   ```bash
-  git clone https://github.com/sbis04/flutter_maps.git
+  git clone https://github.com/Solvis-pahuja/solvis_ridesense_assignent
   ```
 
 * Open the project using your favorite IDE. For opening with VS Code:
